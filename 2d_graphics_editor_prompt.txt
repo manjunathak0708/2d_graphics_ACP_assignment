@@ -1,0 +1,5 @@
+I want to make a 2D graphics editor program in C language. The drawing canvas should be a 2D character array of size 30 rows and 70 columns.
+The canvas should be filled with underscore _ by default and shapes should be drawn using * asterisk character. 
+I need functions to draw circle, rectangle, line and triangle on this canvas.
+The program should have a menu where I can add new shapes, delete existing shapes by their ID, and modify shapes. It should also display the canvas after every change.
+Use Bresenham's algorithm for line and midpoint algorithm for circle.
